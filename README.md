@@ -7,18 +7,10 @@ _API desarrollada en JAVA con Spring Boot, que contiene los recursos necesarios 
 Debe tener instaladas en su maquina las siguientes herramientas:
 
 * Java +8 / Open JDK 11+
+* Maven +3
 * Apache NetBeans / Eclipse IDE
 
 ## Instalación y Ejecución
-
-Compilar el proyecto:
--> mvn:clean install
-
-Ejecutar el proyecto:
-->  mvn spring-boot:run
-
-Abrir en el navegador la URL del API: http://localhost:8080/swagger-ui.html
-
 
 
 Descargar el repositorio de github:
